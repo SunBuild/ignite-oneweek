@@ -1,0 +1,1 @@
+ñ±iY<?php exit; ?>a:1:{s:7:"content";s:263:"a:6:{s:4:"path";s:47:"D:\home\site\wwwroot/wp-content/uploads/2017/07";s:3:"url";s:27:"/wp-content/uploads/2017/07";s:6:"subdir";s:8:"/2017/07";s:7:"basedir";s:39:"D:\home\site\wwwroot/wp-content/uploads";s:7:"baseurl";s:19:"/wp-content/uploads";s:5:"error";b:0;}";}

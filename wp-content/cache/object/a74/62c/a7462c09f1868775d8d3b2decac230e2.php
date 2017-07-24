@@ -1,0 +1,1 @@
+9°iY<?php exit; ?>a:1:{s:7:"content";a:3:{s:5:"title";a:2:{s:4:"type";s:4:"text";s:5:"label";s:5:"Title";}s:4:"text";a:2:{s:4:"type";s:7:"tinymce";s:4:"rows";i:20;}s:5:"autop";a:3:{s:4:"type";s:8:"checkbox";s:7:"default";b:1;s:5:"label";s:28:"Automatically add paragraphs";}}}
